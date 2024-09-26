@@ -57,8 +57,8 @@ The Data Analytics Research Project demonstrates the application of concepts, me
 
    For SQL scripts:
 
-   Load the database 'student_adaptivity.db' into your preferred SQL environment.
-   Execute queries in 'distributions.sql'.
+   Load the database `student_adaptivity.db` into your preferred SQL environment.
+   Execute queries in `distributions.sql`.
 
 References:
 Dataset Citation: 
