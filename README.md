@@ -16,7 +16,7 @@ The Data Analytics Research Project demonstrates the application of concepts, me
 
 3. **Research Paper**:
    - Includes research questions, approach, literature search, analysis, results, and discussion.
-   - Citations and references follow appropriate academic standards (APA, MLA, or IEEE).
+   - Citations and references.
 
 ## Files:
 - **Python Files**:
