@@ -37,24 +37,28 @@ The Data Analytics Research Project demonstrates the application of concepts, me
 
 ## How to Run:
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/data-analytics-research-project.git```
-   Install the necessary dependencies:
+   ```
+   git clone https://github.com/your-username/data-analytics-research-project.git
+   ```
+   
+2. Install the necessary dependencies:
 
-Python packages can be installed with:
-   ```bash
-pip install -r requirements.txt --user```
+   Python packages can be installed with:
+   ```
+   pip install -r requirements.txt --user
+   ```
 
-Ensure you have R and SQL properly configured.
-Run each analysis file individually (example for Python):
+   Ensure you have R and SQL properly configured.
+   Run each analysis file individually (example for Python):
 
-   ```bash
-python q1a.py```
+   ```
+   python q1a.py
+   ```
 
-For SQL scripts:
+   For SQL scripts:
 
-Load the database student_adaptivity.db into your preferred SQL environment.
-Execute queries in distributions.sql.
+   Load the database 'student_adaptivity.db' into your preferred SQL environment.
+   Execute queries in 'distributions.sql'.
 
 References:
 Dataset Citation: 
