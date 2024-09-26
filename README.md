@@ -1,4 +1,4 @@
-# Project Assignment 4: Data Analytics Research Project
+# Data Analytics Research Project: Barriers for students’ adaptability to online educational settings
 
 ## Purpose:
 The Data Analytics Research Project demonstrates the application of concepts, methods, and tools learned throughout the course. Using a chosen dataset, we perform analyses using R, Python, and SQL to produce statistical summaries, visualizations, and conclusions.
