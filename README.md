@@ -37,7 +37,7 @@ The Data Analytics Research Project demonstrates the application of concepts, me
 ## How to Run:
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/data-analytics-research-project.git
+   git clone https://github.com/sosophia10/Data-Analytics-Research-Project.git
    ```
    
 2. Install the necessary dependencies:
