@@ -1,7 +1,7 @@
 # Data Analytics Research Project: Barriers for Students’ Adaptability to Online Educational Settings
 
 ## Purpose:
-The Data Analytics Research Project demonstrates the application of concepts, methods, and tools learned throughout the course. Using a chosen dataset, we perform analyses using R, Python, and SQL to produce statistical summaries, visualizations, and conclusions.
+The Data Analytics Research Project demonstrates the application of concepts, methods, and tools learned throughout the course. Using a chosen dataset, I performed an analysis using R, Python, and SQL to produce statistical summaries, visualizations, and conclusions.
 
 ## Contents:
 1. **Exploratory Data Analysis**:
